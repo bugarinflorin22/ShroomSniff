@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27354fbd9589474a889f5d46583a3654, type: 3}
+  m_Name: AppConfiguration
+  m_EditorClassIdentifier: Assembly-CSharp::ShroomSniff.App.AppConfiguration
+  gameplayScopePrefab: {fileID: -1618732373656251041, guid: a55e4e5311f03c14cafd4d723a5198f1, type: 3}
+  metaScopePrefab: {fileID: 1525117424323477003, guid: 9802a087e77daa545acce890014eb922, type: 3}
+  gameUIController: {fileID: -3963422837157083292, guid: 58aa734f29b8ff54db08d70f75da16c1, type: 3}
+  suctionSoundEffect: {fileID: 8300000, guid: 13e0f621fcdabb546811704192cca0ac, type: 3}

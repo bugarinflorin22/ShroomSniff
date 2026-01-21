@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a7546bc854b4aa8b643dbdeff6a7d77, type: 3}
+  m_Name: GameplayScopeConfiguration
+  m_EditorClassIdentifier: Assembly-CSharp::ShroomSniff.Gameplay.GameplayScopeConfiguration
+  gameplayScene: {fileID: 7388269361667680133, guid: a0cbbd63c9d1e424eb38c8f0edf2a57b, type: 3}
+  cameraConfiguration: {fileID: 11400000, guid: c72e182f831b5094d9ad0ca98868985b, type: 2}
+  cursorConfiguration: {fileID: 11400000, guid: bf2915dc971b291448be5bea6e6a093c, type: 2}
+  levelConfiguration: {fileID: 11400000, guid: 47949c1ceca3d1c468b0131ddd843de5, type: 2}
+  mushroomConfiguration: {fileID: 11400000, guid: 6b710ae57a1927d48ba79a4aa5648d89, type: 2}
+  coinRewardConfiguration: {fileID: 11400000, guid: 245c42a8b2d49b545a76238a3e8d8daa, type: 2}
+  pauseMenuPrefab: {fileID: 3425482249214429771, guid: f25e94facf44bac4cac6b24f53380bb6, type: 3}
+  timeUpMenuPrefab: {fileID: 944357534835727846, guid: 76ad114326bab4842af41f5096a44e5b, type: 3}
+  timeLimitSeconds: 15
